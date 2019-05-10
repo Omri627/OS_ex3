@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS_ex32.dir/main.c.o  -o OS_ex32 

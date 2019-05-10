@@ -1,0 +1,3 @@
+/home/omri/CLionProjects/OS_ex32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/omri/CLionProjects/OS_ex32/cmake-build-debug/CMakeFiles/OS_ex32.dir
+/home/omri/CLionProjects/OS_ex32/cmake-build-debug/CMakeFiles/edit_cache.dir

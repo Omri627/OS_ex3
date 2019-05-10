@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/omri/CLionProjects/OS_ex32/main.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+string.h
+-
+dirent.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+

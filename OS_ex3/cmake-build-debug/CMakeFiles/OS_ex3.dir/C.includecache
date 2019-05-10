@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/omri/CLionProjects/OS_ex3/main.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+
